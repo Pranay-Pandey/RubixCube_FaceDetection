@@ -1,0 +1,5 @@
+The output comes in this folder.
+
+The output of the processed image is a text file.
+
+The file is in the form of a matrix where each number corresponds to a unique color in the input image
